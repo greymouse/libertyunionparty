@@ -62,3 +62,5 @@ system.
 
 * The state must reveal all funding, services and equipment recieved from the 
 Federal government, foreign governments and private individuals or corporations.
+
+* Any and all civil forfeiture must be subject to public records requests.
