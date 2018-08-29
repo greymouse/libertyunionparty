@@ -22,7 +22,7 @@ a state where government business can be accessed on standardized portals for
 every agency. The guidline for the work i would like to do would be transparency
 for the government and privacy for the individual.
 
-1) Privacy for Individuals and transparency for Government. There should be
+* Privacy for Individuals and transparency for Government. There should be
 transparency of all publically funded agencies and institutions including, but
 not limited to, hospitals, nursing homes and schools. These institutions should
 prominently post both physically and on-the-internet important information 
@@ -30,32 +30,35 @@ including CEO compensation, infection rate, graduation and dropout rates etc.
 They should offer free access to all non-personal records. The burden of 
 enforcement of Public Records requests rests on the state.
 
-2) I am in favor of removing most of the exceptions listed in the public records
+* I am in favor of removing most of the exceptions listed in the public records
 law. It is in the public's interest to know what type of software is used to 
 store private information. It is in the public interest because the people need 
 to know the security that protects private information. It is in the public 
 interest to know how expensive the software products are.
 
-3) My office will push that the state use open source software wherever 
+* My office will push that the state use open source software wherever 
 possible. Open Source software tends to be more secure than proprietary software
 and it is free to obtain for the most part.  The State of VT should endeavor to 
 use Open Source Software wherever it is reasonably possible and contribute 
 changes back to the software project for the greater social good.
 
-3a) I will push that the state properly release improvements made on open source
+* I will push that the state properly release improvements made on open source
 software for the greater public good.
 
-4) I will use technology in the service of transparency. I will use software
+* I will use technology in the service of transparency. I will use software
 like securedrop or globaleaks to ensure that people feel safe reporting 
 corruption, waste and other serious problems in government and with government officials.
 
-5) I will create a central portal or website for the public to access 
+* I will create a central portal or website for the public to access 
 information released in the service of transparency.
 
-6) My office will aggressively defend individual privacy including people
+* My office will aggressively defend individual privacy including people
 who want to opt out of shared medical databases.
 
-7) Because the electronic health care record system is a risk for privacy, and 
+* Because the electronic health care record system is a risk for privacy, and 
 also because it compromises the doctor/patient relationship, patients and 
 doctors should have the right to opt-out of the digital health care record 
 system.
+
+* The state must reveal all funding, services and equipment recieved from the 
+Federal government, foreign governments and private individuals or corporations.
