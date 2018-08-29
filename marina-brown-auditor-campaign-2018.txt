@@ -19,7 +19,7 @@ and the State’s single audit (which looks at the usage of federal funds by
 the state)". I would add one more type of audit, a transparency audit that
 would focus on turning Vermont from a state with very poor transparency to
 a state where government business can be accessed on standardized portals for
-every agency. The guidline for the work i would like to do would be transparency
+every agency. The guidline for the work I would like to do would be transparency
 for the government and privacy for the individual.
 
 1) Privacy for Individuals and transparency for Government. There should be
@@ -36,10 +36,10 @@ store private information. It is in the public interest because the people need
 to know the security that protects private information. It is in the public 
 interest to know how expensive the software products are.
 
-3) My office will push that the state use open source software wherever 
-possible. Open Source software tends to be more secure than proprietary software
+3) My office will push that the state use open-source software wherever 
+possible. Open-Source software tends to be more secure than proprietary software
 and it is free to obtain for the most part.  The State of VT should endeavor to 
-use Open Source Software wherever it is reasonably possible and contribute 
+use Open-Source Software wherever it is reasonably possible and contribute 
 changes back to the software project for the greater social good.
 
 3a) I will push that the state properly release improvements made on open source
@@ -47,7 +47,7 @@ software for the greater public good.
 
 4) I will use technology in the service of transparency. I will use software
 like securedrop or globaleaks to ensure that people feel safe reporting 
-corruption, waste and other serious problems in government and with government officials.
+corruption, waste and other serious problems in the government and with government officials.
 
 5) I will create a central portal or website for the public to access 
 information released in the service of transparency.
