@@ -47,7 +47,9 @@ software for the greater public good.
 
 * I will use technology in the service of transparency. I will use software
 like securedrop or globaleaks to ensure that people feel safe reporting 
-corruption, waste and other serious problems in government and with government officials.
+corruption, waste and other serious problems in government and with government 
+officials. Every county and town should have a truly anonymous dropbox for
+people to report corruption, crime or governmental misconduct.
 
 * I will create a central portal or website for the public to access 
 information released in the service of transparency.
@@ -64,3 +66,6 @@ system.
 Federal government, foreign governments and private individuals or corporations.
 
 * Any and all civil forfeiture must be subject to public records requests.
+
+* All actions in service of immigration control must be subject to public 
+records requests.
